@@ -8,7 +8,7 @@ Reg No : 212223110036
 To design and deploy a prototype application for image generation utilizing the Stable Diffusion model, integrated with the Gradio UI framework for interactive user engagement and evaluation.
 
 ### PROBLEM STATEMENT:
-
+The task involves creating a user-friendly interface where users can input text descriptions (prompts) to generate high-quality, realistic images using the Stable Diffusion model. The prototype aims to demonstrate the capabilities of the model while ensuring ease of interaction through Gradio.
 ### DESIGN STEPS:
 To develop an interactive application that allows users to generate custom images from text prompts using a state-of-the-art text-to-image model. The system should be user-friendly, enabling efficient testing and evaluation of the model's capabilities through a Gradio-based interface.
 #### STEP 1:Understand the API and Framework Requirements
@@ -79,7 +79,8 @@ demo = gr.Interface(
 demo.launch()
 ```
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/f213f87e-799b-4990-89f6-f3a03074d5d9)
+![image](https://github.com/user-attachments/assets/26269044-2cda-4120-aead-3102f6b1e02d)
+
 
 ### RESULT:
 Successfully designed and deployed a prototype application for image generation using the Stable Diffusion model, demonstrating interactive user engagement and the ability to generate high-quality images from text prompts.
